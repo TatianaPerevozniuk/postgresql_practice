@@ -1,5 +1,11 @@
 # postgresql_practice
 Схема базы данных:
 
-<img src="schema_db.png" width="500">
+<img src="schema_db.png" width="400">
+
+Комментарий к схеме:
+pk – primary key, уникальный идентификатор таблицы
+Fk – foreign key, вторичный ключ для связывания с другой таблицей по pk.
+CHEEF_ID – это атрибут содержащий идентификатор сотрудника, который является
+руководителем, foreign key на таблицу EMPLOYEE.
 
