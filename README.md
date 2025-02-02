@@ -1,3 +1,5 @@
 # postgresql_practice
 Схема базы данных:
-![Схема БД](schema_db.png)
+
+<img src="schema_db.png" width="500">
+
